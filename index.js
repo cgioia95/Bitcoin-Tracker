@@ -40,7 +40,7 @@ var options = {
 
     console.log(price);
 
-    res.write("<p> THe current date is " +  currentDate + "</p>");
+    res.write("<h1> The current date is " +  currentDate + "</h1>");
 
     res.write("<h1> " + amount + " " + crypto + " is currently " + price + " " +  fiat + "</h1>");
 
