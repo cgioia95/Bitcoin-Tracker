@@ -1,2 +1,2 @@
 # Bitcoin-Tracker
-Crypto price tracker implementing a node js backend server accessing BitCoin Average API.
+Crypto price-tracker implementing a Nodes backend server accessing BitCoine Average API.
